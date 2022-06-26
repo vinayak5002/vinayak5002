@@ -26,3 +26,5 @@ Intrests: Still trying all the feilds available but currently I am intrested in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak5002&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=vinayak5002&color=green)
