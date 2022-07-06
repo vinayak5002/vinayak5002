@@ -6,11 +6,11 @@
 
 Interests: Still trying all the fields available but currently I am interested in developing apps in flutter and I am also interested in developing web apps.
 
-2⭐ Coder in Code chef
+2⭐ Expert level coder in CodeChef
 
-5⭐ In problem solving in hackerranker
+5⭐ In problem solving in HackerRank
 
-<h3 align="left">Here are few skills I know:</h3>
+<h3 align="left">Here are a few skills that I know:</h3>
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
