@@ -22,7 +22,9 @@ Interests: Still trying all the fields available but currently I am interested i
  <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=onedark)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=onedark)
+
+[![Vinayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=vinayak5002&theme=dracula)](https://github.com/vinayak5002)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak5002&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
