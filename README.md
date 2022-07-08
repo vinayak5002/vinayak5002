@@ -28,4 +28,6 @@ Interests: Still trying all the fields available but currently I am interested i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak5002&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Vinayak's github trophy](https://github-profile-trophy.vercel.app/?username=vinayak5002&row=1)](https://github.com/vinayak5002/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=vinayak5002&color=green)
