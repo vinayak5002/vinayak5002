@@ -25,8 +25,8 @@ Interests: Still trying all the fields available but currently I am interested i
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2560px-React-icon.svg.png" alt="React.js" width="60" height="40"/> 
  <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
  </br>
- <img src="https://pluralsight2.imgix.net/paths/images/powershell-4a119eeac9.png" alt="Shell scripting" width="60" height="60"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Shell scripting" width="40" height="40"/>
+ <img src="https://github.com/vinayak5002/vinayak5002/blob/main/img/shell.png" alt="Shell scripting" width="35" height="35"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning" width="40" height="40"/>
 </p>
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=onedark)
