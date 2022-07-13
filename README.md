@@ -4,16 +4,42 @@
 
 ### B.Tech 2nd year CSE student at ASE Coimbatore
 
-Interests: Still trying all the fields available but currently I am interested in developing apps in flutter and I am also interested in developing web apps.
+Interests: Still trying all the fields available but currently I am interested in developing apps in flutter and I am also interested in developing web and mobile apps.
 
-2⭐ Coder in CodeChef
+</br>
 
-5⭐ In problem solving in HackerRank
+<table>
+  <tr>
+    <td>
+        <a href="https://leetcode.com/Vinayak_5002/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40">
+        </a>
+    </td>
+    <td>52❓ Solved in leetcode</td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://www.codechef.com/users/vizzard_5002" target="_blank">
+            <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width="40" height="40">
+        </a>
+    </td>
+    <td>2⭐ Coder in CodeChef</td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://www.hackerrank.com/mailvizzard" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40"></td>
+        </a>
+    <td>5⭐ In problem solving in HackerRank</td>
+  </tr>
+</table>
+
+</br>
 
 <h3 align="left">Here are a few skills that I know:</h3>
 <p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
  </br>
