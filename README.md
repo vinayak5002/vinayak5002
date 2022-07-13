@@ -63,4 +63,4 @@ Interests: Still trying all the fields available but currently I am interested i
 
 [![Vinayak's github trophy](https://github-profile-trophy.vercel.app/?username=vinayak5002&row=1)](https://github.com/vinayak5002/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=vinayak5002&color=green)
+![](https://github-profile-trophy.vercel.app/?username=vinayak5002&theme=gruvbox)
