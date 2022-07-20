@@ -50,17 +50,17 @@ Interests: Still trying all the fields available but currently I am interested i
  </br>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2560px-React-icon.svg.png" alt="React.js" width="60" height="40"/> 
  <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
  </br>
  <img src="https://github.com/vinayak5002/vinayak5002/blob/main/img/shell.png" alt="Shell scripting" width="35" height="35"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning" width="40" height="40"/>
 </p>
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=onedark)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak5002&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak5002&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=vinayak5002&row=2&column=3&theme=algolia)
 
 [![Vinayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=vinayak5002&theme=dracula)](https://github.com/vinayak5002)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak5002&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Vinayak's github trophy](https://github-profile-trophy.vercel.app/?username=vinayak5002&row=1)](https://github.com/vinayak5002/github-profile-trophy)
-
-![](https://github-profile-trophy.vercel.app/?username=vinayak5002&theme=gruvbox)
