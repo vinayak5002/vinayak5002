@@ -2,7 +2,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> This is Vinayak
 
-### B.Tech 2nd year CSE student at ASE Coimbatore
+### B.Tech 3rd year CSE student at ASE Coimbatore
 
 Interests: Still trying all the fields available but currently I am interested in developing apps in flutter and I am also interested in developing web and mobile apps.
 
