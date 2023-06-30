@@ -62,5 +62,5 @@ Interests: Still trying all the fields available but currently I am interested i
 
 ![](https://github-profile-trophy.vercel.app/?username=vinayak5002&row=2&column=3&theme=algolia)
 
-[![Vinayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=vinayak5002&theme=dracula)](https://github.com/vinayak5002)
+[![vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak5002&theme=dracula)](https://github.com/vinayak5002/github-readme-activity-graph)
 
