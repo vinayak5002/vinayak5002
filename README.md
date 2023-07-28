@@ -15,7 +15,7 @@ Interests: Still trying all the fields available but currently I am interested i
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40">
         </a>
     </td>
-    <td>328❓ Solved in leetcode</td>
+    <td>257❓ Solved in leetcode</td>
   </tr>
   <tr>
     <td>
