@@ -64,3 +64,5 @@ Interests: Still trying all the fields available but currently I am interested i
 
 [![vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak5002&theme=dracula)](https://github.com/vinayak5002/github-readme-activity-graph)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak5002&" alt="vinayak5002" /></p>
+
